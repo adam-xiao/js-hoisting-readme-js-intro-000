@@ -25,4 +25,4 @@ function sayMyName() {
     console.log(name);
     }
 }
-sayMyNae()();
+sayMyName()();
